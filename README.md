@@ -1,13 +1,13 @@
 ﻿# [NRF52](https://github.com/sochub/NRF52)
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
+[![sites](SoC/qitas.png)](http://www.qitas.cn) 
 ####  qitas@qitas.cn
 #### 父级：[Nordic](https://github.com/sochub/Nordic) 
 #### 归属：[Cortex M4](https://github.com/sochub/CM4) 
 ## [简介](https://github.com/sochub/NRF52/wiki)
 
-nRF52系列采用64MHz ARM® Cortex®-M4F内核，支持BLE 5.0和mesh功能。
+nRF52系列采用64MHz ARM® Cortex®-M4F内核，支持BLE 5.0和Bluetooth mesh功能，nRF52系列SoC支持多种通信协议。
 
-nRF52较之nRF51系列功耗降低，性能提升，nRF51系列的功耗约为8.3mA到10mA，而nRF52832的峰值功耗也才5.5mA。这是一大突破，而nRF52系列采用的64MHz ARM® Cortex®-M4F处理器较之上一代产品也是很大的提升。性能的提高、功耗的降低，可以应对日后不同的蓝牙需求，这是nRF52系列最大的优势。
+nRF52较之nRF51系列的功耗降低，性能提升，nRF51系列的功耗约为8.3mA到10mA，而nRF52832的峰值功耗也才5.5mA。
 
 [![sites](SoC/NRF52.png)](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/Bluetooth-low-energy) 
 
