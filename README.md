@@ -1,38 +1,20 @@
-﻿# [nRF52 系列](https://github.com/sochub/nRF52)
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
-#### 厂商：[Nordic](https://github.com/sochub/Nordic) 
-#### 归属：[Cortex M4](https://github.com/sochub/CM4) 
-## [NRF52简介](https://github.com/sochub/nRF52/wiki)
+﻿# [nRF7002](https://github.com/SoCXin/nRF7002)
 
-[nRF52 系列](https://github.com/sochub/nRF52)采用64MHz ARM® Cortex®-M4F内核，支持BLE 5.0和Bluetooth mesh功能，nRF52系列SoC支持多种通信协议。
+* [nordic](https://www.nordicsemi.com/)：[Cortex-M33](https://github.com/SoCXin/Cortex)
+* [L4R5](https://github.com/SoCXin/Level)：64 MHz
 
-nRF52较之nRF51系列的功耗降低，性能提升，nRF51系列的功耗约为8.3mA到10mA，而nRF52832的峰值功耗也才5.5mA。
+## [简介](https://github.com/SoCXin/nRF7002/wiki)
 
-[![sites](SoC/NRF52.png)](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/Bluetooth-low-energy) 
+[nRF7002](https://github.com/SoCXin/nRF7002)
 
 
+### 关键特性
 
-### [收录型号](https://github.com/sochub/nRF52)
+* IEEE 802.11b/g/n/ax 1x1，支持20/40 MHz
+* IEEE 802.15.4
 
-* [nRF52810](https://github.com/sochub/nRF52810) 
-* [nRF52811](https://github.com/sochub/nRF52811) 
-* [nRF52832](https://github.com/sochub/nRF52832) 
-* [nRF52840](https://github.com/sochub/nRF52840) 
+### [选型建议](https://github.com/SoCXin)
 
-### [收录资源](https://github.com/sochub/nRF52)
 
-* [参考文档](docs/)
-* [参考资源](src/)
-* [模板工程](demo/)
 
-### [关联资源](https://github.com/sochub)
-
-* [编译工具](https://github.com/sochub/arm-none-eabi)
-
-### [替换方案](https://github.com/sochub)
-
-* 向下替换方案 [NRF51](NRF51) 
-* 音频替换方案 [CSR](https://github.com/sochub/CSR) 
-
-##  [SoC资源平台](http://www.qitas.cn)
-
+### [www.SoC.xin](http://www.SoC.Xin)
